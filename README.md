@@ -1,5 +1,7 @@
 # Monadica Governance 📜
 
+![Monadica Logo](https://github.com/monadicarts/monadicarts/blob/main/assets/monadica256.png)
+
 Welcome to the **Monadica Governance Repository**! This repository contains the policies, guidelines, and governance documents for the **Monadica Open Source Committee**. 
 
 ### Purpose
